@@ -1,4 +1,4 @@
-package com.practice.microservice.tdd;
+package com.microservice.tdd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

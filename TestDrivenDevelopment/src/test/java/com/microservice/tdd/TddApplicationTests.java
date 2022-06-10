@@ -1,4 +1,4 @@
-package com.practice.microservice.tdd;
+package com.microservice.tdd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
