@@ -8,11 +8,11 @@
         <version>2.7.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.practice.microservice</groupId>
+    <groupId>com.microservice</groupId>
     <artifactId>tdd</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>tdd</name>
-    <description>Test driven development practice</description>
+    <description>Demo project for Test driven development</description>
     <properties>
         <java.version>17</java.version>
     </properties>
